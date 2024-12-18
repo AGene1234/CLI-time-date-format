@@ -5,6 +5,6 @@ when launched it shows:
 Date: YYYY/MM/DD
 Time: HH:MM:SS
 
-it is updating every second to show seconds count and it is automatically resized to tiny proportions to only show the data and time. As my personal setup it is launched by another batch file that start this one plusd autodesk fusion 360 simultaneously.
+it is updating every second to show seconds count and it is automatically resized to tiny proportions to only show the data and time. As personal preference it is launched by another batch file that start this one plus autodesk fusion 360 simultaneously.
 
 made by chatgpt
